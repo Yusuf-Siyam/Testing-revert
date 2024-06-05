@@ -1,4 +1,4 @@
 hi how are you
--git checkout -- .
--git reset HEAD .
--git reset -hard HEAD 
+-git checkout -- .(undo from unstagging)
+-git reset HEAD . (undo from stagging)
+-git reset -hard HEAD (undo from  stagging and unstagging)
