@@ -1,1 +1,4 @@
 hi how are you
+-git checkout -- .
+-git reset HEAD .
+-git reset -hard HEAD 
